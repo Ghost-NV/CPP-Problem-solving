@@ -1,2 +1,2 @@
-# CPP-Problem-solving
-Most of my C++ Tasks &amp; Problems will be here available for everyone to copy and edit
+# CPP-Problem-Solving
+Most of my C++ Tasks & Problems will be here available for everyone to check and edit..
